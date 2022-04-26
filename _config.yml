@@ -22,12 +22,12 @@ title: Capstone Team 10
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Project website for Team 10 for GWU CSCI 4344.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/capstone_team_10_site.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 
