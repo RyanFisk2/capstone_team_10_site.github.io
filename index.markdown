@@ -35,6 +35,7 @@ RVTrippy the predominant one stop shop for RV trip planners.
 * Bio:  I was born and raised in Los Angeles, California. I started pursing my BS in Computer Science and minor in business at GW in 2018. A fun fact about me is that I was trained in stunt work for 5 consecutive summers.
 
 * Image:
+
 ![image](./img/BRIAN.png)
 
 ##### Ryan Fisk
@@ -42,7 +43,8 @@ RVTrippy the predominant one stop shop for RV trip planners.
 * Bio: I was born in Burlington, VT before moving to Albany NY. I'll be graduating this semester with a B.S. in CS and a minor in philosophy. After college I 
         plan to explore the workforce and pursue employment in the industry. Fun fact: One time I had to run away from a killer clown with a chainsaw!
 
-* Image: 
+* Image:
+
 ![image](./img/RYAN.jpg)
 
 ##### Jake Harris
@@ -50,6 +52,7 @@ RVTrippy the predominant one stop shop for RV trip planners.
 * Bio: Hi! My name is Jake Harris, I'm originally from Atlanta, Georgia and am going to be graduating in May, 2022 with a B.S. in Computer Science. I was on GW's Varsity Men's rowing team for three years and will graduate with a varsity letter. I love long walks on the beach.
 
 * Image:
+
 ![image](./img/JAKE.jpg)
 
 ##### Jonathan Terry
@@ -57,4 +60,5 @@ RVTrippy the predominant one stop shop for RV trip planners.
 * Bio: I'm originally from Connecticut and am majoring in CS (obviously) with a minor in Mathematics. I don't know quite yet what I'm doing after college. A fun fact about me is my favorite language to program in is C.
 
 * Image:
+
 ![image](./img/JON.jpg)
