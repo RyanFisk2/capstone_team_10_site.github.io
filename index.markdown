@@ -4,9 +4,6 @@
 
 layout: home
 ---
-
-# Capstone Team 10 Project Site
-
 ### Project Description
 
 * RVTrippy is a webapp that acts as a one stop shop for RV trip planning. Existing tools for RV trip planning and itineraries
